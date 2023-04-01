@@ -1,4 +1,7 @@
 # Feature
-1. Highlight square when selected.
+- Support move piece with both drag and click
+- Highlight square when selected.
+- Highlight movement
 
-2. Show possible movements.
+TODO:
+- Show possible movements.
